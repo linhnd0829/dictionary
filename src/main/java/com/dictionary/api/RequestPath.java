@@ -1,4 +1,4 @@
-package com.example.demo.api;
+package com.dictionary.api;
 
 public class RequestPath {
     public static final String HELLO = "api/v2/hello";
