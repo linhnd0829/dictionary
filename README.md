@@ -1,14 +1,15 @@
 # dictionary
+A web application for translation
 
-## Prerequisites
+### Prerequisites
 - java 11 installed
 - maven installed
 - mongoDB community
 
-## Build
+### Build
 ```
 mvn clean install
 ```
 
-## Test in local
+### Test in local
 - run the Application with IntelliJ
